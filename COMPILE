@@ -1,0 +1,12 @@
+Thanks for submitting constants.h
+Thanks for submitting list.h
+Thanks for submitting list.cpp
+Thanks for submitting hash.h
+Thanks for submitting hash.cpp
+Thanks for submitting main.cpp
+
+Compiling main.cpp hash.cpp list.cpp
+
+g++ main.cpp hash.cpp list.cpp
+
+
